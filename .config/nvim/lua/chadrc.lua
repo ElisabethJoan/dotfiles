@@ -11,10 +11,10 @@ M.ui = {
 	-- 	Comment = { italic = true },
 	-- 	["@comment"] = { italic = true },
 	-- },
-  statusline = {
-    theme = "default", -- default, vscode, vscode_colored or minimal
-    separator_style = "arrow", -- default, round, block or arrow
-  }
+    statusline = {
+        theme = "default", -- default, vscode, vscode_colored or minimal
+        separator_style = "arrow", -- default, round, block or arrow
+    },
 }
 
 return M
