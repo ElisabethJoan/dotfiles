@@ -1,8 +1,8 @@
 #!/bin/bash
 
-rm ~/.zshenv
+rm -f ~/.zshenv
 cp .zshenv ~/.zshenv
-rm ~/.zshrc
+rm -f ~/.zshrc
 cp .zshrc ~/.zshrc
 
 mkdir -p ~/.config/alacritty
