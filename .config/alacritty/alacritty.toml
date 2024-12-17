@@ -197,8 +197,8 @@ multiplier = 3
 # Default: true
 
 [font]
-# normal = { family = "Fisa Code", style = "Italic" }
-# size = 8
+normal = { family = "Source Code Pro", style = "Light" }
+size = 12
 # builtin_box_drawing = true 
 
 # COLORS
