@@ -197,7 +197,7 @@ multiplier = 3
 # Default: true
 
 [font]
-normal = { family = "Source Code Pro", style = "Light" }
+normal = { family = "SauceCodePro Nerd FontMono", style = "Light" }
 size = 12
 # builtin_box_drawing = true 
 
